@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5895752
+  lightness: 0.2230353
+  brandStrength: 0.1198262
+  brandColors:
+    - '#5C6D89'
+    - '#0C070C'
+    - '#E9E1C6'
+    - '#FFBD30'
+    - '#E94C03'
+  rhythmicContrast: 0.5862041
+typography_spectrum: 0.5430108
+name: Now Here Nowhere
